@@ -5,11 +5,17 @@ import java.util.Scanner;
 public class Corso {
 	
 	public Corso(String codiceFiscale, String codiceCorso, String nomeCorso, String corsoLaurea, String descrizione) {
+
 		this.codiceFiscale = codiceFiscale;
+
 		this.codiceCorso = codiceCorso;
+
 		this.nomeCorso = nomeCorso;
+
 		this.corsoLaurea = corsoLaurea;
+
 		this.descrizione = descrizione;
+
 		this.docen = null;
 	}
 	
