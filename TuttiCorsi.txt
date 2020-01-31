@@ -1,0 +1,25 @@
+CPRMHL94P08
+N56
+Programmazione 2
+Ingegneria informatica
+Studio di programmazione ad oggetti
+CPRRCC91P11
+345
+Sistemi dinamici
+Ingegneria informatica
+(nessuno)
+LRABNN97MMM
+456
+Fondamenti
+Ingegneria automatica
+(nessuno)
+CODICE FISCALE 1
+m89
+Sistemi dinamici
+Ingegneria informatica
+(nessuno)
+CPRMHL94P08
+P09
+Controlli dinamici
+Ingegneria automatica
+(nessuno)

@@ -1,0 +1,24 @@
+CPRMHL94P08
+michele
+cipriano
+08-09-1994
+ricercatore
+ING-inf
+CPRRCC91P11
+rocco
+cipriano
+19-09-1991
+associato
+LETT
+LRABNN97MMM
+laura
+buonanno
+06-02-1997
+ricercatrice
+Economia
+CODICE FISCALE 1
+bo
+nessuno
+00-00-1234
+bidello
+NEX
